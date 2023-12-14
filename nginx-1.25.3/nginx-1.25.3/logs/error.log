@@ -1,0 +1,17 @@
+2023/12/14 02:12:05 [error] 13204#12920: *1 CreateFile() "C:\Users\Admin\Desktop\nginx-1.25.3\nginx-1.25.3/html/api/urlRepost" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /api/urlRepost HTTP/1.1", host: "localhost:88"
+2023/12/14 02:12:12 [error] 13204#12920: *1 CreateFile() "C:\Users\Admin\Desktop\nginx-1.25.3\nginx-1.25.3/html/api/urlRepost" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /api/urlRepost HTTP/1.1", host: "localhost:88"
+2023/12/14 02:12:35 [error] 13204#12920: *1 CreateFile() "C:\Users\Admin\Desktop\nginx-1.25.3\nginx-1.25.3/html/api/urlReport" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /api/urlReport HTTP/1.1", host: "localhost:88"
+2023/12/14 02:14:50 [error] 8112#14632: *1 CreateFile() "C:\Users\Admin\Desktop\nginx-1.25.3\nginx-1.25.3/html/api/urlReport" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /api/urlReport HTTP/1.1", host: "localhost:88"
+2023/12/14 02:16:21 [emerg] 12404#17056: bind() to 0.0.0.0:8088 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2023/12/14 02:16:21 [alert] 16868#3844: worker process 12404 exited with code 1
+2023/12/14 02:16:21 [alert] 16868#3844: could not respawn worker
+2023/12/14 02:16:25 [emerg] 12804#12244: bind() to 0.0.0.0:8088 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2023/12/14 02:16:25 [alert] 5812#3120: worker process 12804 exited with code 1
+2023/12/14 02:16:25 [alert] 5812#3120: could not respawn worker
+2023/12/14 02:17:19 [emerg] 13532#3796: bind() to 0.0.0.0:8088 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2023/12/14 02:18:02 [emerg] 9388#16084: bind() to 0.0.0.0:8088 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2023/12/14 02:18:27 [emerg] 6716#9536: bind() to 0.0.0.0:8088 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2023/12/14 02:21:25 [emerg] 3708#6784: bind() to 0.0.0.0:8088 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2023/12/14 02:22:36 [emerg] 10028#3076: bind() to 0.0.0.0:8088 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2023/12/14 02:26:42 [error] 4392#6736: *1 CreateFile() "C:\Users\Admin\Desktop\nginx-1.25.3\nginx-1.25.3/html/api/urlReport" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /api/urlReport HTTP/1.1", host: "localhost:88"
+2023/12/14 02:27:44 [error] 4392#6736: *1 CreateFile() "C:\Users\Admin\Desktop\nginx-1.25.3\nginx-1.25.3/html/api/urlReport" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /api/urlReport HTTP/1.1", host: "localhost:88"
